@@ -35,8 +35,8 @@ artifacts/
 *.puya.map
 
 # Miscellaneous
-Decantral_Project_Log.md
-help.txt
-out.json
-test-backend.js
-walkthrough.md
+# Decantral_Project_Log.md
+# help.txt
+# out.json
+# test-backend.js
+# walkthrough.md
