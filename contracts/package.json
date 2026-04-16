@@ -1,0 +1,28 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@algorandfoundation/algokit-utils": "^9.2.0",
+    "@algorandfoundation/puya-ts": "^1.1.0",
+    "@types/node": "^25.5.2",
+    "algosdk": "^3.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "@algorandfoundation/algorand-typescript": "^1.1.0",
+    "@blockshake/defly-connect": "^1.2.1",
+    "@perawallet/connect": "^1.5.2",
+    "@txnlab/use-wallet": "^4.6.0",
+    "lucide-react": "^1.7.0",
+    "react-hot-toast": "^2.6.0"
+  }
+}
